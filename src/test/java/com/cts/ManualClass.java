@@ -16,4 +16,19 @@ public class ManualClass {
 		System.out.println("3");
 
 	}
+	private void tamil() {
+
+		System.out.println("tamil");
+
+	}
+	private void english() {
+
+		System.out.println("english");
+
+	}
+	private void telungu() {
+
+		System.out.println("telungu");
+
+	}
 }
