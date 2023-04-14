@@ -16,4 +16,16 @@ public class ManualClass {
 		System.out.println("3");
 
 	}
+	private void add() {
+		System.out.println("add");
+
+	}
+	private void multiple() {
+		System.out.println("multiple");
+
+	}
+	private void division() {
+		System.out.println("division");
+
+	}
 }
