@@ -18,6 +18,10 @@ public class ManualClass {
 	
 	private void method3() {
 		System.out.println("3");
+		/*private void method1() {
+		System.out.println("1");
+
+	}*/
 
 	}
 	private void tamil() {
